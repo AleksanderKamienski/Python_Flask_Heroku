@@ -1,3 +1,6 @@
+#website will be modified soon
+#you can watch it here : 
+#https://alekfirstproject.herokuapp.com/
 from flask import Flask, request
 from datetime import datetime
 
